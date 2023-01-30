@@ -82,11 +82,6 @@ Note :These are tools and Technology I used for my projects.
  ---
   
   
- <h3> Statistics:</h3>
- 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubramanyaKS&theme=chartreuse-dark)](https://git.io/streak-stats)
-
 
 
  
@@ -104,12 +99,10 @@ Note :These are tools and Technology I used for my projects.
 </div>-->
  
  ---
- 
  <h3 align="center">🌐 Connect 🔗 or follow me:</h3>
 <p align="center">
 <a href="https://twitter.com/srivathsa_nt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subbukshebbar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/srivathsa-nt-1870001bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subramanya-k-s-b74a92204/" height="30" width="40" /></a>
-
 <a href="https://www.facebook.com/srivathsa.nt.98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Subramanyaks" height="30" width="40" /></a>
 
 ---
