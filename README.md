@@ -60,8 +60,8 @@ You can click the Preview link to take a look at your changes.
 ---
 ### Resume and Portofolio
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://subramanyaks.github.io/SubramanyaKS-Resume.pdf)
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://subramanyaks.github.io/)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1nS-j32dyEs0vINeDRxrcP-GckJbsdfvn/view?usp=share_link)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://srivathsant.netlify.app/)
 
 ---
 
