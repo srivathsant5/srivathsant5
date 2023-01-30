@@ -49,7 +49,7 @@
 
 - 🇮🇳 I'm from INDIA.
 
-- ⚡ FunFact: My hobbies are drawing, cycling and listening music 🎶 😆.
+- ⚡ My hobbies are drawing, cycling and listening music 🎶 😆.
 
 ---
 ### Resume and Portofolio
