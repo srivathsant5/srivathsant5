@@ -1,10 +1,4 @@
-# srivathsant
 
- <!---
-Srivathsa N T/ Srivathsa N T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img  src="https://srivathsant.netlify.app/" width="100%" height="230">
 
 <h1 align="center">Hi 👋, I am <a href="https://github.com/srivatsant"> Srivathsa N T </a></h1>
 <h3 align="center">Data Scientist from Karnataka, India <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=30 height=30></h3>
@@ -94,37 +88,11 @@ Note :These are tools and Technology I used for my projects.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubramanyaKS&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 
----
 
-### 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SubramanyaKS&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-
---- 
-
-<!-- GITHUB STATISTICS -->
-### My Github Statistics:
-  
- ![Github stats](https://github-readme-stats.vercel.app/api?username=SubramanyaKS&theme=chartreuse-dark) 
- 
- 
- 
- ---
-
-<!--  TOP LANGUAGES STATISTICS -->
- ### TOP LANGUAGES STATISTICS
-**Note** This statistics gives the most used language in my project/repo not my programming language skill percentage.
-
-| Most used Language    | Commits per day |
-| ---      | ---       |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubramanyaKS&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark) |
-
----
  
  <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SubramanyaKS&theme=github)
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=srivathsant5&theme=github)
  
  
  
@@ -139,29 +107,16 @@ Note :These are tools and Technology I used for my projects.
  
  <h3 align="center">🌐 Connect 🔗 or follow me:</h3>
 <p align="center">
-<a href="https://twitter.com/subbukshebbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subbukshebbar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/subramanya-k-s-b74a92204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subramanya-k-s-b74a92204/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/subramanyaks2205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subramanyaks2205" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@subramanya43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@subramanya43" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@subramanyakshebbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@subramanya43" height="30" width="40" /></a>
-<a href="https://m.facebook.com/100070944345090/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Subramanyaks" height="30" width="40" /></a>
-<!--<a href="https://www.instagram.com/subramanyakshebbar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Subramanya insta" height="30" width="40" /></a>-->
-<a href="https://leetcode.com/Subramanya_KS/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Subramanya Leetcode" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/srivathsa_nt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subbukshebbar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/srivathsa-nt-1870001bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subramanya-k-s-b74a92204/" height="30" width="40" /></a>
+
+<a href="https://www.facebook.com/srivathsa.nt.98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Subramanyaks" height="30" width="40" /></a>
 
 ---
-### Holopin Board
 
-[![@subramanya's Holopin board](https://holopin.me/subramanya)](https://holopin.io/@subramanya)
-
-<!-----
-
-![MYReactApp](https://github-readme-stats.vercel.app/api/pin/?username=SubramanyaKS&repo=MyReactApp&theme=highcontrast)
-![AyuCareManagement](https://github-readme-stats.vercel.app/api/pin/?username=SubramanyaKS&repo=AyuCareManagement&theme=highcontrast)
--->
 ### Feedback
 
-if you want to give feedback mail me [here](mailto:subramanyak22@gmail.com)
+if you want to give feedback mail me [here](mailto: srivathsant5@gmail.com)
 
 **If you like my profile and other repositories ⭐ the repository and fork it if you want.**
 
