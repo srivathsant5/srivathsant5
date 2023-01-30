@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I am <a href="https://github.com/srivatsant"> Srivathsa N T </a></h1>
-<h3 align="center">Data Scientist from Karnataka, India <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=30 height=30></h3>
+<h3 align="center">Data Scientist from Karnataka, INDIA <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=30 height=30></h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=subramanyaks&label=Profile%20views&color=0e75b6&style=flat" alt="subramanyaks"/> </p>
 -->
