@@ -18,7 +18,7 @@
 
 - 🧠 I’m currently working as a **Data Scientist [MERN].**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/srivatsant)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/srivathsant5?tab=repositories)
 
 - 📫 How to reach me <a href="mailto:srivathsant5@gmail.com">**srivathsant5@gmail.com**</a>
 
