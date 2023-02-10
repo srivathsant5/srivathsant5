@@ -93,7 +93,6 @@ Note :These are tools and Technology I used for my projects.
 <a href="https://www.facebook.com/srivathsa.nt.98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Subramanyaks" height="30" width="40" /></a>
 
 ---
-https://learn.microsoft.com/en-us/training/achievements/learn-bizapps.create-measures-dax-power-bi.badge?username=SRIVATHSANT-8462
 
 
 ### Feedback
