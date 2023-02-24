@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [My React Portfolio.](https://srivathsant.netlify.app)
 
-- 🧠 I’m currently working as a **Data Scientist [MERN].**
+- 🧠 I’m currently working as a **Data Scientist.**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/srivathsant5?tab=repositories)
 
