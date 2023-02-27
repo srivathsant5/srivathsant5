@@ -116,7 +116,9 @@ Note :These are tools and Technology I used for my projects.
 
 ---
 
+### 📈 GitHub stats Graph:
 ![GitHub metrics](https://metrics.lecoq.io/srivathsant5)  
+
 
 ---
 ![Profile views](https://gpvc.arturio.dev/srivathsant5)  
