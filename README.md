@@ -1,5 +1,10 @@
+<a href="https://github.com/srivathsant5/">
+  <img align="center"    src="https://github.com/srivathsant5/srivathsant5/blob/main/Pink%20and%20Purple%20Floral%20Patterned%20General%20Linkedin%20Banner%20(1).gif?raw=true" />
+</a>
 
 
+
+------
 <h1 align="center">Hi 👋, I am <a href="https://github.com/srivatsant"> Srivathsa N T </a></h1>
 <h3 align="center">Data Scientist from Karnataka, INDIA <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=30 height=30></h3>
 
