@@ -6,14 +6,14 @@
 
 ------
 <h1 align="center">Hi 👋, I am <a href="https://github.com/srivatsant"> Srivathsa N T </a></h1>
-<h3 align="center">Data Scientist from Karnataka, INDIA <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=30 height=30></h3>
+<h3 align="center">Data Scientist from Karnataka, INDIA  </a></h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=subramanyaks&label=Profile%20views&color=0e75b6&style=flat" alt="subramanyaks"/> </p>
--->
-
+-------
 
 
----
+![Profile views](https://gpvc.arturio.dev/srivathsant5)  
+
+--------
 
 ### About Myself:
 
@@ -80,18 +80,45 @@ Note :These are tools and Technology I used for my projects.
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+---
+ <h3> Statistics:</h3>
+ 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srivathsant5&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+
+---
+
+### 🏆 Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=srivathsant5)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivathsant5)](https://github.com/anuraghazra/github-readme-stats)
+---
+<!-- GITHUB STATISTICS -->
+### My Github Statistics:
+  
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=srivathsant5&theme=chartreuse-dark) 
+ 
+ ---
+ <!--  TOP LANGUAGES STATISTICS -->
+ ### TOP LANGUAGES STATISTICS
+**Note** This statistics gives the most used language in my project/repo not my programming language skill percentage.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=srivathsant5&show_icons=true&count_private=true)  
+| Most used Language    | Commits per day |
+| ---      | ---       |
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivathsant5&theme=chartreuse-dark)] | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srivathsant5&theme=solarized_dark) |
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=srivathsant5)  
+ ---
+ 
+ <!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=srivathsant5&theme=github)
+
+---
 
 ![GitHub metrics](https://metrics.lecoq.io/srivathsant5)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=srivathsant5)  
-
+---
 ![Profile views](https://gpvc.arturio.dev/srivathsant5)  
  
  
@@ -102,7 +129,8 @@ Note :These are tools and Technology I used for my projects.
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>-->
  
- ---
+ -----------
+
  <h3 align="center">🌐 Connect 🔗 or follow me:</h3>
 <p align="center">
 <a href="https://twitter.com/srivathsa_nt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subbukshebbar" height="30" width="40" /></a>
