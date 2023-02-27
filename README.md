@@ -109,17 +109,16 @@ Note :These are tools and Technology I used for my projects.
 
  ---
  
- <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=srivathsant5&theme=github)
+ ### 🏆 Microsoft Trophies
+ 
 
----
-
-### 📈 GitHub stats Graph:
-![GitHub metrics](https://metrics.lecoq.io/srivathsant5)  
+<h1><a href="https://docs.microsoft.com/en-us/users/srivathsant-8462/">
+    My <mark style="background-color: #E8AE3A; color: black;">Microsoft Trophies and Badges</mark>
+</a></h1>
 
 
 ---
+
 ![Profile views](https://gpvc.arturio.dev/srivathsant5)  
  
  
