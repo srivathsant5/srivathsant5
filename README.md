@@ -1,5 +1,5 @@
 <a href="https://github.com/srivathsant5/">
-  <img align="center"    src="https://github.com/srivathsant5/srivathsant5/blob/main/Pink%20and%20Purple%20Floral%20Patterned%20General%20Linkedin%20Banner%20(1).gif?raw=true" />
+ 
 </a>
 
 
